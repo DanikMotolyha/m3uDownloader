@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="m3uDownloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/m3uDownloader_jar</output-path>
+    <root id="root">
+      <element id="archive" name="m3uDownloader.jar">
+        <element id="module-output" name="m3uDownloader" />
+      </element>
+    </root>
+  </artifact>
+</component>
